@@ -1,3 +1,7 @@
+# Thesis PMD / Checkstyle vs grades
+
+This repository contains anonymized data and corresponding analysis code for the thesis "Using industry-standard code quality metrics to assess student-written program code".
+
 # Measures, categories and clusters
 
 In the csv data and the notebooks the following terminology is used for the different metrics, groups of metrics and other measures:
